@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Galang 👋 I’m currently pursuing a degree in Informatics Engineering at Telkom University Purwokerto.<br><br>💻 Strong foundation in Go and C++ programming<br><br>🗄️ Currently learning SQL for data management<br><br>🌐 Exploring web development and diving into machine learning<br><br>🔎 Passionate about learning new things and adapting quickly to change<br><br>🚀 Driven to grow as a creative and solution-oriented developer<br><br>“People change over time. That’s why it’s important to cherish the moments you have with them.”
+Hi, I’m Galang 👋 I’m currently pursuing a degree in Informatics Engineering at Telkom University Purwokerto.<br><br>💻 Strong foundation in Go and C++ programming<br><br>🗄️ Currently learning SQL for data management<br><br>🌐 Exploring web development and diving into machine learning<br><br>🔎 Passionate about learning new things and adapting quickly to change<br><br>🚀 Driven to grow as a creative and solution-oriented developer<br><br>``“People change over time. That’s why it’s important to cherish the moments you have with them.”``
 
 
 ## 🌐 Socials:
@@ -12,8 +12,7 @@ Hi, I’m Galang 👋 I’m currently pursuing a degree in Informatics Engineeri
 ![](https://nirzak-streak-stats.vercel.app/?user=marzhendo&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=marzhendo&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
