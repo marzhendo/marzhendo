@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Galang 👋 I’m currently pursuing a degree in Informatics Engineering at Telkom University Purwokerto.<br><br>💻 Strong foundation in Go and C++ programming<br><br>🗄️ Currently learning SQL for data management<br><br>🌐 Exploring web development and diving into machine learning<br><br>🔎 Passionate about learning new things and adapting quickly to change<br><br>🚀 Driven to grow as a creative and solution-oriented developer<br><br>``“People change over time. That’s why it’s important to cherish the moments you have with them.”``
+Hi, I’m Galang 👋 I’m currently pursuing a degree in Informatics Engineering at Telkom University Purwokerto.<br><br>💻 Strong fundamental in Go and C++ programming<br><br>🗄️ Currently learning SQL for data management<br><br>🌐 Exploring web development and diving into machine learning<br><br>🔎 Passionate about learning new things and adapting quickly to change<br><br>🚀 Driven to grow as a creative and solution-oriented developer<br><br> `“People change over time. That’s why it’s important to cherish the moments you have with them.”`
 
 
 ## 🌐 Socials:
