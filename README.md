@@ -48,16 +48,19 @@ Seeking opportunities to apply my technical skills in real-world projects, parti
 
 ## 📊 GitHub Stats:
 
+## 📊 GitHub Stats:
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marzhendo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marzhendo&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
+<!-- Alternative Top Languages Card -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marzhendo&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marzhendo&theme=tokyonight)
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
