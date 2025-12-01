@@ -20,12 +20,15 @@ Marzhendo Galang Saputra<br>Informatics Engineering student at Telkom University
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marzhendo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marzhendo&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marzhendo&theme=tokyonight" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marzhendo&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marzhendo&icon=1&color=13)](https://visitcount.itsvg.in)
