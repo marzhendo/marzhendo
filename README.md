@@ -1,6 +1,6 @@
 # 💫 About Me:
 **Marzhendo Galang Saputra**  
-Informatics Engineering student at Telkom University Purwokerto with a strong focus on software development and emerging technologies.
+Undergraduate Informatics Engineering student at Telkom University Purwokerto with a strong focus on software development and emerging technologies.
 
 ### Technical Skills:
 - **Programming Languages:** C++, Golang, Python, JavaScript
