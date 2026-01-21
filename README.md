@@ -39,7 +39,7 @@ I am an aspiring Software Engineer with a strong focus on building efficient and
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marzhendo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&layout=compact&theme=tokyonight&count_private=true&hide=html,css"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&layout=compact&theme=tokyonight"/>
 </p>
 ---
 
