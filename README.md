@@ -1,87 +1,58 @@
-# 💫 About Me:
-**Marzhendo Galang Saputra**  
-Undergraduate Informatics Engineering student at Telkom University Purwokerto with a strong focus on software development and emerging technologies.
+# Hi, I'm Marzhendo Galang Saputra! 👋
 
-### Technical Skills:
-- **Programming Languages:** C++, Golang, Python, JavaScript
-- **Database:** MySQL
-- **Web Development:** HTML5, CSS3, React, TailwindCSS
-- **Design Tools:** Figma, Canva, Affinity Designer, Adobe Lightroom
-- **Currently Developing:** Web Development, UI/UX Design
-- **Areas of Interest:** Artificial Intelligence, Computer Vision, Cyber Security
+### 🎓 Undergraduate Informatics Engineering Student @ Telkom University
 
-### What I Bring:
-- Strong foundation in data structures and algorithms through C++ and Golang
-- Quick learner with hands-on approach to mastering new technologies
-- Passionate about building efficient, scalable solutions
-- Currently expanding skill set in database management and modern web technologies
+I am an aspiring Software Engineer with a strong focus on building efficient and scalable solutions. With a solid foundation in **Data Structures and Algorithms**, I am currently bridging the gap between core systems programming and emerging technologies, specifically in **Machine Learning** and **Modern Web Development**.
 
-### Professional Goals:
-Seeking opportunities to apply my technical skills in real-world projects, particularly in AI/Computer Vision, Cyber Security development or backend engineer roles. Open to internships, project collaborations, and learning from experienced professionals in the field.
-
-**Let's Connect:** Always eager to discuss technology, collaborate on meaningful projects, or explore new opportunities in software engineering.
+- 🔭 **Currently Focusing on:** Developing expertise in AI, Computer Vision, and Backend Architectures.
+- 🌱 **Learning Path:** Advancing my skills in Deep Learning frameworks and scalable Golang services.
+- ⚡ **Interests:** Artificial Intelligence, Cyber Security, and UI/UX Design.
+- 💬 **Ask me about:** C++, Golang, MySQL, or Frontend development with React.
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrzhendo_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marzhendo/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marzhendo03@gmail.com) 
+### 🚀 Technical Expertise & Tools
 
----
+#### 💻 Programming Languages & Backend
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) 
+#### 🌐 Frontend & Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🛠️ Design & Development Tools
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity-%231B222D.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ---
 
+### 📊 GitHub Insights
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marzhendo&theme=tokyonight&hide_border=true)
-
-<!-- Alternative Top Languages Card -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marzhendo&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marzhendo&theme=tokyonight)
-
-</div>
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=marzhendo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marzhendo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🔝 Top Contributed Repo
-<div align="center">
+### 📫 Let's Connect!
 
-![](https://github-contributor-stats.vercel.app/api?username=marzhendo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am open to internships, project collaborations, and networking with experienced professionals in the software engineering field.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marzhendo/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mrzhendo_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzhendo03@gmail.com)
 
 ---
-
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=marzhendo&icon=1&color=13)](https://visitcount.itsvg.in)
-
+  <img src="https://visitcount.itsvg.in/api?id=marzhendo&icon=1&color=13" alt="visit count" />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
