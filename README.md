@@ -38,7 +38,7 @@ I am an aspiring Software Engineer with a strong focus on building efficient and
 ### 📊 GitHub Insights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marzhendo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marzhend&layout=pie&theme=tokyonight)
 
 ---
 
