@@ -6,7 +6,7 @@ I am an aspiring Software Engineer with a strong focus on building efficient and
 
 - 🔭 **Currently Focusing on:** Developing expertise in AI, Computer Vision, and Backend Architectures.
 - 🌱 **Learning Path:** Advancing my skills in Deep Learning frameworks and scalable Golang services.
-- ⚡ **Interests:** Artificial Intelligence, Cyber Security, and UI/UX Design.
+- ⚡ **Interests:** Artificial Intelligence, Web App Development.
 - 💬 **Ask me about:** C++, Golang, MySQL, or Frontend development with React.
 
 ---
