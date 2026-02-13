@@ -56,7 +56,4 @@ I am open to internships, project collaborations, and networking with experience
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mrzhendo_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzhendo03@gmail.com)
 
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=marzhendo&icon=1&color=13" alt="visit count" />
-</div>
+
