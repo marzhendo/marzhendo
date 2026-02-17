@@ -44,16 +44,7 @@ I am an aspiring Software Engineer with a strong focus on building efficient and
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marzhendo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&theme=tokyonight&layout=compact"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzhendo&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&theme=tokyonight&layout=pie"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzhendo&theme=tokyonight&layout=pie&hide_border=true"/>
 </div>
 
 ---
