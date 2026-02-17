@@ -48,6 +48,10 @@ I am an aspiring Software Engineer with a strong focus on building efficient and
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marzhendo&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzhendo&theme=tokyonight"/>
+</div>
+
 ---
 
 ### 📫 Let's Connect!
