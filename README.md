@@ -46,7 +46,7 @@ I am an aspiring Software Engineer with a strong focus on building efficient and
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marzhendo&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marzhendo&theme=tokyonight"/>
-</div>>
+</div>
 
 ---
 
