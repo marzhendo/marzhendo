@@ -49,9 +49,8 @@ I am an aspiring Software Engineer with a strong focus on building efficient and
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzhendo&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzhendo&theme=tokyonight&hide_border=true"/>
 </div>
-
 ---
 
 ### 📫 Let's Connect!
