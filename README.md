@@ -52,6 +52,8 @@ I am an aspiring Software Engineer with a strong focus on building efficient and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzhendo&theme=tokyonight&hide_border=true"/>
 </div>
 
+---
+
 ### 📫 Let's Connect!
 
 I am open to internships, project collaborations, and networking with experienced professionals in the software engineering field.
