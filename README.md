@@ -2,12 +2,11 @@
 
 ### 🎓 Undergraduate Informatics Engineering Student @ Telkom University
 
-I am an aspiring Software Engineer with a strong focus on building efficient and scalable solutions. With a solid foundation in **Data Structures and Algorithms**, I am currently bridging the gap between core systems programming and emerging technologies, specifically in **Machine Learning** and **Modern Web Development**.
+I am an aspiring Software Engineer with a strong focus on building efficient and scalable solutions. With a solid foundation in **Data Structures and Algorithms**, I am currently learning Data Science / AI Engineer path.
 
 - 🔭 **Currently Focusing on:** Developing expertise in AI, Computer Vision, and Backend Architectures.
 - 🌱 **Learning Path:** Advancing my skills in Deep Learning frameworks and scalable Golang services.
 - ⚡ **Interests:** Artificial Intelligence, Web App Development.
-- 💬 **Ask me about:** C++, Golang, MySQL, or Frontend development with React.
 
 ---
 
